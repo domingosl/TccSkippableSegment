@@ -1,5 +1,5 @@
 {
-    "name"        : "tccltd/tcc-skippable-segment",
+    "name"        : "domingosl/tcc-skippable-segment",
     "description" : "Skippable Route Config",
     "type"        : "library",
     "authors"     : [
